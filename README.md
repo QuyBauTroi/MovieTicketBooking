@@ -173,4 +173,4 @@ docker-compose up -d
 
 ## Liên hệ
 
-Email - [buivanhien19tb@gmail.com](mailto:buivanhien19tb@gmail.com)
+Email - [nguyenduyquy2108@gmail.com](mailto:nguyenduyquy2108@gmail.com)
